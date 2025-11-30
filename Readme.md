@@ -1,6 +1,3 @@
-[cite\_start]Here is the **README.md** file, tailored specifically to meet the submission requirements outlined in the assignment[cite: 15].
-
-You should save this content in a file named `README.md` inside your `email_agent` folder.
 
 -----
 
@@ -44,7 +41,7 @@ The application will open automatically in your default web browser (usually at 
 
 ## Usage Guide
 
-### [cite\_start]1. Loading the Mock Inbox [cite: 18, 54]
+### 1. Loading the Mock Inbox 
 
   * Upon launching the application, the system automatically loads the 10 sample emails provided in `mock_data.json`.
   * Navigate to the **"Dashboard & Inbox"** tab to view the raw email list.
@@ -52,10 +49,9 @@ The application will open automatically in your default web browser (usually at 
 ### 2\. Processing Emails
 
   * In the **"Dashboard & Inbox"** tab, click the **"🔄 Process Inbox (Run Agent)"** button.
-  * [cite\_start]The agent will read the active prompts and populate the "Category" and "Action Item" columns for each email[cite: 103, 104].
+  * The agent will read the active prompts and populate the "Category" and "Action Item" columns for each email.
 
-### [cite\_start]3. Configuring Prompts ("Prompt Brain") [cite: 19, 38]
-
+### 3. Configuring Prompts ("Prompt Brain") 
   * Navigate to the **"Prompt Brain"** tab.
   * Here you can modify the three core prompts:
     1.  **Categorization Prompt:** Define rules for tags like "Spam", "Important", or "To-Do".
@@ -63,7 +59,7 @@ The application will open automatically in your default web browser (usually at 
     3.  **Auto-Reply Prompt:** Define the tone and style for draft generation.
   * Click **"Save Configuration"** to update the agent's logic immediately.
 
-### [cite\_start]4. Using the Chat Agent [cite: 31, 109]
+### 4. Using the Chat Agent 
 
   * Navigate to the **"Email Agent Chat"** tab.
   * Select a specific email from the dropdown menu.
@@ -72,13 +68,13 @@ The application will open automatically in your default web browser (usually at 
       * *"What is the deadline mentioned?"*
       * *"Draft a polite refusal reply."*
 
-### [cite\_start]5. Managing Drafts [cite: 133, 146]
+### 5. Managing Drafts 
 
   * If you ask the Chat Agent to write a reply, click **"Save as Draft"**.
   * Navigate to the **"Drafts"** tab to review, edit, or delete drafts.
   * Click **"📨 Simulate Send"** to "send" the email (this removes it from the drafts list).
 
-## [cite\_start]Project Structure [cite: 13]
+## Project Structure 
 
 ```text
 email_agent/
