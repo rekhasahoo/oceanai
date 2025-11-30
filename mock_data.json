@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "sender": "boss@company.com",
+    "subject": "Urgent: Q3 Report Due",
+    "body": "Hi, I need the Q3 financial report by EOD tomorrow. Please ensure the marketing spend is highlighted.",
+    "timestamp": "2023-10-25 09:30:00",
+    "read": false
+  },
+  {
+    "id": 2,
+    "sender": "newsletter@techdaily.com",
+    "subject": "Top 10 AI Tools in 2024",
+    "body": "Here are the top tools you need to know about this year... [Link]",
+    "timestamp": "2023-10-25 10:15:00",
+    "read": false
+  },
+  {
+    "id": 3,
+    "sender": "client@external.com",
+    "subject": "Meeting Request: Project Alpha",
+    "body": "Can we schedule a call for next Tuesday at 2 PM to discuss the integration steps?",
+    "timestamp": "2023-10-25 11:00:00",
+    "read": false
+  },
+  {
+    "id": 4,
+    "sender": "hr@company.com",
+    "subject": "Open Enrollment for Benefits",
+    "body": "Reminder that benefits enrollment closes on Friday. Please log in to the portal.",
+    "timestamp": "2023-10-25 12:00:00",
+    "read": true
+  },
+  {
+    "id": 5,
+    "sender": "nigerian_prince@scam.com",
+    "subject": "YOU HAVE WON THE LOTTERY",
+    "body": "Click this link to claim your 5 million dollars immediately!!!",
+    "timestamp": "2023-10-25 13:45:00",
+    "read": false
+  },
+  {
+    "id": 6,
+    "sender": "team_lead@company.com",
+    "subject": "Code Review Required",
+    "body": "Please review the PR #405 regarding the database migration scripts.",
+    "timestamp": "2023-10-26 09:00:00",
+    "read": false
+  },
+  {
+    "id": 7,
+    "sender": "event_planner@meetup.com",
+    "subject": "Invitation: Local Dev Meetup",
+    "body": "Join us this Saturday for coffee and code.",
+    "timestamp": "2023-10-26 10:00:00",
+    "read": false
+  },
+  {
+    "id": 8,
+    "sender": "server_alert@aws.com",
+    "subject": "Alert: CPU Usage High",
+    "body": "Your EC2 instance i-12345 is experiencing high CPU load.",
+    "timestamp": "2023-10-26 11:30:00",
+    "read": true
+  },
+  {
+    "id": 9,
+    "sender": "colleague@company.com",
+    "subject": "Lunch?",
+    "body": "Heading to the taco place at 12:30, wanna join?",
+    "timestamp": "2023-10-26 12:15:00",
+    "read": false
+  },
+  {
+    "id": 10,
+    "sender": "manager@company.com",
+    "subject": "Update on roadmap",
+    "body": "I've updated the roadmap document. Please read it before the Monday sync.",
+    "timestamp": "2023-10-27 14:00:00",
+    "read": false
+  }
+]
